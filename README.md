@@ -5,8 +5,7 @@
 I :heart:
 - Software Engineering
 - Film-making and Photography 
-- Cutting edge tech
-- Content on current affairs
+- Non fiction
 
 Web Development :hammer_and_wrench:
 
